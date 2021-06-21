@@ -8,6 +8,6 @@ Please reach out to our support team by emailing info@redistrictingdatahub.org i
 
 ### vest-hi-2018
 
-RDH's partner data validation for VEST's 2018 HI file. VEST's raw file is availabile [here] (https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/XDCPO5&version=33.0)
+RDH's partner data validation for VEST's 2018 HI file. VEST's raw file is availabile [here] ([https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/XDCPO5&version=33.0]).
 
-Our final validation report for this dataset is available [here] (https://redistrictingdatahub.org/dataset/vest-2018-hawaii-precinct-and-election-results/)
+Our final validation report for this dataset is available [here] ([https://redistrictingdatahub.org/dataset/vest-2018-hawaii-precinct-and-election-results/]).
