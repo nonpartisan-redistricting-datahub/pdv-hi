@@ -16,6 +16,6 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   
 ## **File Processing:**
 - Processing and Validation Steps: \
-`vest_hi_2018.ipynb`
+`vest-hi-2018.ipynb`
 - Notes / Methodology: Comments on \
-`vest_hi_2018.ipynb`
+`vest-hi-2018.ipynb`
