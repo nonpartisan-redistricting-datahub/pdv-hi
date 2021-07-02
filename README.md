@@ -8,12 +8,17 @@ Please reach out to our support team by emailing info@redistrictingdatahub.org i
 
 ### vest-hi-2020
 
+<<<<<<< HEAD
 VEST's raw file is availabile [here](https://dataverse.harvard.edu/file.xhtml?fileId=4750434&version=13.0)
+=======
+VEST's raw file is availabile [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/FQDLOO&version=33.0)
+>>>>>>> f6ef36fde948d9fe159e363d40d3e535f00bc814
 
 Our final validation report for VEST's 2020 HI file is available [here](https://redistrictingdatahub.org/dataset/vest-2020-hawaii-precinct-and-election-results/). 
 
-### vest-hi-2018
+### vest-hi-2016
 
+<<<<<<< HEAD
 VEST's raw file is availabile [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/FQDLOO&version=33.0)
 
 Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2018-hawaii-precinct-and-election-results/)
@@ -23,3 +28,9 @@ Our final validation report for this dataset is available [here](https://redistr
 VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/DFM0EE&version=61.0)
 
 Our final validation report for VEST's 2016 HI file is available [here](https://redistrictingdatahub.org/dataset/vest-2016-hawaii-precinct-and-election-results/). 
+=======
+RDH's partner data validation for VEST's 2016 HI file is available [here](https://redistrictingdatahub.org/dataset/vest-2016-hawaii-precinct-and-election-results/). 
+
+VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/DFM0EE&version=61.0)
+
+>>>>>>> f6ef36fde948d9fe159e363d40d3e535f00bc814

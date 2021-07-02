@@ -9,10 +9,12 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 ## **Raw from source:**
 - VEST Data File
     -  Accessed: 03/01/2021, Source: [VEST](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/DFM0EE&version=61.0 )
-- 2018 Election Results 
+- 2016 Election Results 
     - Accessed: 05/03/2021, Source: [State of Hawaii Office of Elections](https://elections.hawaii.gov/election-results/) 
-- 2017 Precinct Shapefile 
-    - Accessed: 05/03/2021, Source: [Hawaii Statewide GIS Program](https://geoportal.hawaii.gov/datasets/cchnl::voter-precincts/about) 
+    - Note: Click on "2016" on the left-hand sidebar and then 'Statewide Precinct Detail'
+- 2016 Precinct Shapefile 
+    - Accessed: 05/03/2021, Source: [Hawaii Statewide GIS Program](https://geoportal.hawaii.gov/datasets/historical-voting-precincts-2016/explore?location=20.552605%2C-157.490700%2C8.00) 
+    - Note: To download, click the button that looks like a cloud with an arrow pointing down out of it and then scroll to "Shapefile", click "Download Options" and then "Download Available File"
   
 ## **File Processing:**
 - Processing and Validation Steps: \
